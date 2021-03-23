@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdiptaBiswas
 - 👀 I’m interested in Full-Stack Engineering
-- 🌱 I’m currently learning Front-End Web Development and Design
-- 💞️ I’m looking to collaborate on open-source programs and learn by working on stuffs
+- 🌱 I’m currently learning Front-End Web Dev and Design
+- 💞️ I’m looking to collaborate and learn by doing 
 - 📫 How to reach me? Please mail me at ricklovespy@gmail.com
 
 <!---
