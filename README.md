@@ -48,9 +48,8 @@
   </ul>
 </details>
 <hr/>
-<h3>📈 My profile stats:</h3>
+<h3>🧮 Profile visit count:</h3>
 <br/>
-<p><strong>🧮 Profile visit count:</strong></p>
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=AdiptaBiswas.visitor-badge)
 <hr/>
