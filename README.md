@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate and learn by doing 
 - 📫 How to reach me? Please mail me at ricklovespy@gmail.com
 
-<!---
-AdiptaBiswas/AdiptaBiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### (ʘ‿ʘ)╯ I'm Adipta Biswas
+
+- I hail from Kolkata, India 🇮🇳 
+- I'm an aspiring Full-Stack Engineer 🚀
+- Currently, I'm learning Front-End 👾
+- Recently, I've shifted my career from Data Science 📊
+- I am a true fan of Metal music 🤘
+- Not a believer of miracles 🔮 
+- Count me in if you want to plant trees 🌳
