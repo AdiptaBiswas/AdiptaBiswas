@@ -34,7 +34,7 @@
     </ul>
 </ul>
 <hr/>
-### Top languages used:
+<h4>Languages used</h4>
 <br/>
 <p><em>The visualization below depicts the share of programming languages and tools my repositories contain.</em></p>
 
