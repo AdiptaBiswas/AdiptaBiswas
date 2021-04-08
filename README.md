@@ -1,16 +1,16 @@
-### (ʘ‿ʘ)╯ Hey! I'm Adipta Biswas
+<h4>(ʘ‿ʘ)╯ Hey! I'm Adipta Biswas</h4>
 <br/>
 <ul>
   <li>I hail from Kolkata, India 🇮🇳.</li>
   <li>I'm an aspiring Full-Stack Engineer 🚀.</li> 
   <li>Currently, I'm learning Front-End 👨🏽‍💻.</li>
   <li>I've shifted my career from Data Science 📊.</li>
-  <li>Sometimes I write for [DEV Community](https://dev.to/ricky_rick).</li>
+  <li>Sometimes I write for ![DEV Community](https://dev.to/ricky_rick).</li>
   <li>I don't believe in miracles 🔮.</li>
   <li>Count me in if you want to plant trees 🌳.</li>
 </ul>
 <hr/>
-### (̿▀̿‿ ̿▀̿ ̿)  These days, I'm using:
+<h4>(̿▀̿‿ ̿▀̿ ̿)  These days, I'm using</h4>
 <br/>
 <ul>
   <li>Programming languages</li>
