@@ -16,6 +16,7 @@ I hail from Kolkata, India 🇮🇳. I'm an aspiring Full-Stack Engineer 🚀. C
   - CodePen
   - VSCode
 ***
-### Programming languages used in my repos:
+### Top languages used:
+<p><em>The visualization below depicts the share of programming languages and tools my repositories contain.</em></p>
 
 ![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiptaBiswas&layout=compact&hide_border=true&layout=compact&theme=material-palenight)
