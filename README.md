@@ -1,4 +1,4 @@
-<h3>🤠 Hey! I'm Adipta Biswas</h3>
+<h3>🤠 Hey! I'm Adipta Biswas.</h3>
 <br/>
 <ul>
   <li>I hail from Kolkata, India 🇮🇳.</li>
@@ -10,10 +10,10 @@
   <li>Count me in if you want to plant trees 🌳.</li>
 </ul>
 <hr/>
-<h3>😎 What I'm doing</h3>
+<h3>😎 What I'm doing?</h3>
 <br/>
 <details>
-  <summary>👾 These days, I'm using</summary>
+  <summary>👾 These days, I'm using:</summary>
   <br>
   <ul>
   <li>Programming languages</li>
@@ -39,35 +39,17 @@
 </details>
 <br/>
 <details>
-  <summary>👾 These days, I'm using</summary>
+  <summary>💻 Currently, I'm learning these:</summary>
   <br>
   <ul>
-  <li>Programming languages</li>
-    <ul>
-      <li>Python 3</li>
-    </ul>
-  <li>Markup and Styling languages</li>
-    <ul>
-      <li>HTML 5</li>
-      <li>CSS 3</li>
-      <li>Less preprocessor</li>
-    </ul>
-  <li>Prototype and Wireframing tools</li>
-    <ul>
-      <li>Figma</li>
-    </ul>
-  <li>Code editors</li>
-    <ul>
-      <li>CodePen</li>
-      <li>VSCode</li>
-    </ul>
+    <li>Bootstrap 5</li>
+    <li>JavaScript</li>
+    <Front-End Stack</li>
   </ul>
 </details>
 <hr/>
 <h3>📈 Profile stats</h3>
 <br/>
-<p><em>The visualization below depicts the share of programming languages and tools my repositories contain.</em></p>
+<p><strong>🧮 Profile visitors count:</strong></p>
 
-![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiptaBiswas&layout=compact&hide_border=true&layout=compact&theme=material-palenight)
-<br/>
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=AdiptaBiswas.visitor-badge)
