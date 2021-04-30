@@ -1,4 +1,4 @@
-<h2>🤠 Hello! I'm Adipta Biswas.</h2>
+<h2>🤠 Hello! I am Adipta Biswas</h2>
 <br/>
 <ul>
   <li>I hail from Kolkata, India 🇮🇳.</li>
@@ -10,10 +10,10 @@
   <li>Count me in if you want to plant trees 🌳.</li>
 </ul>
 <hr/>
-<h2>😎 What I'm doing?</h2>
+<h2>😎 Talking about recent days</h2>
 <br/>
 <details>
-  <summary>👾 These days, I'm using:</summary>
+  <summary>👾 I am using</summary>
   <br>
   <ul>
   <li>Programming languages</li>
@@ -39,7 +39,7 @@
 </details>
 <br/>
 <details>
-  <summary>💻 Currently, I'm learning these:</summary>
+  <summary>💻 I am learning</summary>
   <br>
   <ul>
     <li><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
@@ -48,12 +48,12 @@
   </ul>
 </details>
 <hr/>
-<h2>🧮 Profile visit count:</h2>
+<h2>🧮 Current profile visit count</h2>
 <br/>
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=AdiptaBiswas.visitor-badge)
 <hr/>
-<h2>📮 Get in touch with me.</h2>
+<h2>📮 Get in touch with me</h2>
 <br/>
 <ul>
   <li><a href="mailto:adiptabiswas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmai"></a></li>
@@ -61,4 +61,3 @@
   <li><a href="https://linkedin.com/in/adipta-biswas-53017820b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon">
   </li>
 </ul>
-    
