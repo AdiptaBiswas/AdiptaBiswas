@@ -1,4 +1,4 @@
-<h3>🤠 Hey! I'm Adipta Biswas.</h3>
+<h2>🤠 Hello! I'm Adipta Biswas.</h2>
 <br/>
 <ul>
   <li>I hail from Kolkata, India 🇮🇳.</li>
@@ -10,7 +10,7 @@
   <li>Count me in if you want to plant trees 🌳.</li>
 </ul>
 <hr/>
-<h3>😎 What I'm doing?</h3>
+<h2>😎 What I'm doing?</h2>
 <br/>
 <details>
   <summary>👾 These days, I'm using:</summary>
@@ -48,12 +48,12 @@
   </ul>
 </details>
 <hr/>
-<h3>🧮 Profile visit count:</h3>
+<h2>🧮 Profile visit count:</h2>
 <br/>
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=AdiptaBiswas.visitor-badge)
 <hr/>
-<h3>📮 Get in touch with me.</h3>
+<h2>📮 Get in touch with me.</h2>
 <br/>
 <ul>
   <li><a href="mailto:adiptabiswas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmai"></a></li>
