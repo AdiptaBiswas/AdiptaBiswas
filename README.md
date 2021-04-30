@@ -5,7 +5,7 @@
   <li>I'm an aspiring Full-Stack Engineer 🚀.</li> 
   <li>Currently, I'm learning Front-End 👨🏽‍💻.</li>
   <li>I've shifted my career from Data Science 📊.</li>
-  <li>Sometimes I write for <a href="https://dev.to/ricky_rick">DEV Community></a> and <a href="https://medium.com/holy-coding">Medium</li>
+  <li>Sometimes I write for <a href="https://dev.to/ricky_rick">DEV Community</a> and <a href="https://medium.com/holy-coding">Medium</li>
   <li>I don't believe in miracles 🔮.</li>
   <li>Count me in if you want to plant trees 🌳.</li>
 </ul>
