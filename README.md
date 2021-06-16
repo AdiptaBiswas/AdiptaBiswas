@@ -1,64 +1,34 @@
 <p align="center">
-  <img width="1000px" height="400px" src="about.gif" alt="about">
+  <img width="1000px" height="400px" src="about.gif" alt="About me">
 </p>
-<ul>
-  <li>I hail from Kolkata, India 🇮🇳.</li>
-  <li>I'm an aspiring Full-Stack Engineer 🚀.</li> 
-  <li>Currently, I'm learning Front-End 👨🏽‍💻.</li>
-  <li>I've shifted my career from Data Science 📊.</li>
-  <li>Sometimes I write for <a href="https://dev.to/ricky_rick">DEV Community</a> and <a href="https://medium.com/holy-coding">Medium.</a></li>
-  <li>I don't believe in miracles 🔮.</li>
-  <li>Count me in if you want to plant trees 🌳.</li>
-</ul>
-<hr/>
-<h2>😎 Talking about recent days</h2>
+<h2 align="center">👾 Languages and skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastice&logo=python&logoColor=white" alt="Python 3" height=30>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML 5" height=30>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS 3" height=30>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" height=30>
+<img src="https://img.shields.io/badge/SQL-F29111?style=plastic&logo=sql&logoColor=black" alt="SQL" height=30>
+<img src="https://img.shields.io/badge/ANSI C-5C6BC0?style=plastice&logo=c&logoColor=white" alt="ANSI C" height=30>
+<img src="https://img.shields.io/badge/Git-black?style=plastic&logo=git&logoColor=red" alt="Git" height=30>  
+</p>
 <br/>
-<details>
-  <summary>👾 I am using</summary>
-  <br>
-  <ul>
-  <li>Programming languages</li>
-    <ul>
-      <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3"></li>
-    </ul>
-  <li>Markup and Styling languages</li>
-    <ul>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"</li>
-      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"></li>
-      <li><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass preprocessor"></li>
-    </ul>
-  <li>Prototype and Wireframing tools</li>
-    <ul>
-      <li><img src="https://img.shields.io/badge/figma-magenta?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></li>
-    </ul>
-  <li>Code editors</li>
-    <ul>
-      <li><img src="https://img.shields.io/badge/codepen-grey?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></li>
-      <li><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"></li>
-    </ul>
-  </ul>
-</details>
+<h2 align="center">⚙️ Tools and technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" alt="Sass preprocessor" height=30>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height=30>
+  <img src="https://img.shields.io/badge/Codepen-grey?style=plastic&logo=codepen&logoColor=white" alt="Codepen" height=30>
+  <img src="https://img.shields.io/badge/Jupyter-F3631D.svg?&style=plastic&logo=jupyter&logoColor=white" alt="Jupyter notebook" height=30>
+  <img src="https://img.shields.io/badge/Pycharm-5848f4.svg?&style=plastic&logo=pycharm&logoColor=white" alt="PyCharm IDE" height=30>
+  <img src="https://img.shields.io/badge/Anaconda-42B029.svg?&style=plastic&logo=anaconda&logoColor=white" alt="Anaconda" height=30>
+  <img src="https://img.shields.io/badge/Postresql-008bb9.svg?&style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL database" height=30>
+  <img src="https://img.shields.io/badge/Figma-8b37ff?style=plastic&logo=figma&logoColor=black" alt="Figma" height=30>
+  <img src="https://img.shields.io/badge/Pandas-ff0000?style=plastic&logo=pandas&logoColor=black" alt="Pandas library" height=30>
+  <img src="https://img.shields.io/badge/Numpy-rgb(77, 171, 207)?style=plastic&logo=numpy&logoColor=black" alt="Numpy library" height=30>
+  <img src="https://img.shields.io/badge/Scikitlearn-orange?style=plasic&logo=scikitlearn&logoColor=black" alt="Scikit learn library" height=30>
+</p>
 <br/>
-<details>
-  <summary>💻 I am learning</summary>
-  <br>
-  <ul>
-    <li><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
-    <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></li>
-    <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></li>
-  </ul>
-</details>
-<hr/>
-<h2>🧮 Current profile visit count</h2>
-<br/>
-
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=AdiptaBiswas.visitor-badge)
-<hr/>
-<h2>📮 Get in touch with me</h2>
-<br/>
-<ul>
-  <li><a href="mailto:adiptabiswas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmai"></a></li>
-  <br/>
-  <li><a href="https://linkedin.com/in/adipta-biswas-53017820b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon">
-  </li>
-</ul>
+<h2 align="center">📮 Contact details</h2>
+<p align="center">
+  <a href="mailto:adiptabiswas1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=30></a>
+  <a href="https://linkedin.com/in/adipta-biswas-53017820b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin icon" height=30></a>
+</p>
