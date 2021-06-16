@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000px" height="400px" src="hello.gif" alt="hello">
+  <img width="1000px" height="400px" src="about.gif" alt="about">
 </p>
 <ul>
   <li>I hail from Kolkata, India 🇮🇳.</li>
