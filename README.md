@@ -1,7 +1,7 @@
 <p align="center">
   <img width="1000px" height="400px" src="about.gif" alt="About me">
 </p>
-<h2 align="center">👾 Languages and skills</h2>
+<h2 align="center">👾 Languages known</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastice&logo=python&logoColor=white" alt="Python 3" height=30>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML 5" height=30>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Git-black?style=plastic&logo=git&logoColor=red" alt="Git" height=30>  
 </p>
 <br/>
-<h2 align="center">⚙️ Tools and technologies</h2>
+<h2 align="center">⚙️ Tools and technologies used</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" alt="Sass preprocessor" height=30>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height=30>
@@ -27,8 +27,19 @@
   <img src="https://img.shields.io/badge/Scikitlearn-orange?style=plasic&logo=scikitlearn&logoColor=black" alt="Scikit learn library" height=30>
 </p>
 <br/>
+<h2 align="center">🧮 GitHub profile visits</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{AdiptaBiswas}/count.svg" alt="AdiptaBiswas :: Visitor's Count" /></p>
+<br/>
+<h2 align="center">🔝 Top languages used</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiptaBiswas&langs_count=10&theme=tokyonight&layout=compact" alt="AdiptaBiswas :: Top Langs" /></p>
+<br/>
+<h2 align="center">🔋 GitHub profile stats</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdiptaBiswas&show_icons=true&theme=synthwave" alt="AdiptaBiswas :: Profile Stats" /></p>
+<br/>
 <h2 align="center">📮 Contact details</h2>
 <p align="center">
   <a href="mailto:adiptabiswas1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=30></a>
   <a href="https://linkedin.com/in/adipta-biswas-53017820b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin icon" height=30></a>
 </p>
+<br/>
+<p align="center"><img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Cool coder" width="500" height="300" ></p>
