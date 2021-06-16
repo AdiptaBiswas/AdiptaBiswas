@@ -1,5 +1,3 @@
-<h2>🤠 Hello! I am Adipta Biswas</h2>
-<br/>
 <p align="center">
   <img width="1000px" height="500px" src="hello.gif" alt="hello">
 </p>
