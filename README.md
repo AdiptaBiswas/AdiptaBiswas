@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/Numpy-rgb(77, 171, 207)?style=plastic&logo=numpy&logoColor=black" alt="Numpy library" height=25>
 </p>
 <br/>
-
+<h2 align="center">🧮 GitHub profile visits</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{AdiptaBiswas}/count.svg" alt="AdiptaBiswas :: Visitor's Count" /></p>
+<br/>
 <h2 align="center">🔝 Top languages in GitHub profile</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiptaBiswas&card_width=450&langs_count=5&theme=blue-green&layout=compact&hide_title=true" alt="AdiptaBiswas :: Top Langs" /></p>
 <br/>
