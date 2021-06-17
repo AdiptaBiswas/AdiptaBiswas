@@ -12,28 +12,24 @@
 <img src="https://img.shields.io/badge/Git-black?style=plastic&logo=git&logoColor=red" alt="Git" height=25>  
 </p>
 <br/>
-<h2 align="center">⚙️ Tools and technologies used</h2>
+<h2 align="center">⚙️ Tools used</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" alt="Sass preprocessor" height=25>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height=25>
-  <img src="https://img.shields.io/badge/Codepen-grey?style=plastic&logo=codepen&logoColor=white" alt="Codepen" height=25>
-  <img src="https://img.shields.io/badge/Figma-8b37ff?style=plastic&logo=figma&logoColor=white" alt="Figma" height=25>
   <img src="https://img.shields.io/badge/Jupyter-F3631D.svg?&style=plastic&logo=jupyter&logoColor=white" alt="Jupyter notebook" height=25>
   <img src="https://img.shields.io/badge/Pycharm-5848f4.svg?&style=plastic&logo=pycharm&logoColor=white" alt="PyCharm IDE" height=25>
   <img src="https://img.shields.io/badge/Anaconda-42B029.svg?&style=plastic&logo=anaconda&logoColor=white" alt="Anaconda" height=25>
   <img src="https://img.shields.io/badge/Postresql-008bb9.svg?&style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL database" height=25>
   <img src="https://img.shields.io/badge/SQLite-lightblue.svg?&style=plastic&logo=sqlite&logoColor=black" alt="SQLite database" height=25>
-  <img src="https://img.shields.io/badge/Pandas-ff0000?style=plastic&logo=pandas&logoColor=black" alt="Pandas library" height=25>
-  <img src="https://img.shields.io/badge/Numpy-rgb(77, 171, 207)?style=plastic&logo=numpy&logoColor=black" alt="Numpy library" height=25>
 </p>
 <br/>
-<h2 align="center">🧮 GitHub profile visits</h2>
+<h2 align="center">🧮 Profile visits</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{AdiptaBiswas}/count.svg" alt="AdiptaBiswas :: Visitor's Count" /></p>
 <br/>
-<h2 align="center">🔝 Top languages in GitHub profile</h4>
+<h2 align="center">🔝 Top languages in profile</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiptaBiswas&card_width=450&langs_count=5&theme=blue-green&layout=compact&hide_title=true" alt="AdiptaBiswas :: Top Langs" /></p>
 <br/>
-<h2 align="center">🔋 GitHub profile stats</h4>
+<h2 align="center">🔋 Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdiptaBiswas&show_icons=true&theme=blue-green&hide_title=true" alt="AdiptaBiswas :: Profile Stats" /></p>
 <br/>
 <h2 align="center">📮 Contact details</h2>
@@ -47,6 +43,7 @@
   <a href="https://adiptabiswas.medium.com/"><img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=gmail&logoColor=white" alt="Medium" height=30></a>
 </p>
 <br/>
+<h2 align="center">👽 I am coding! I am growing!</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Cool coder" width="500" height="300" ></p>
-  
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Cool coder" width="500" height="300">
+</p>  
